@@ -3,7 +3,7 @@
 ## Important Prerequisite
 
 1. Before starting this challenge, ensure that you have **corrected your JSL01 project (HTML and CSS)** using the solution provided. This will help maintain consistency and ensure you build on a solid foundation.
-2. Check the project user stories in your student dashboard, make sure you understand what is required for each feature.
+2. **Check the project user stories in your student dashboard**, make sure you understand what is required for each feature.
 
 ## Overview
 
